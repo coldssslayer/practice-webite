@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #333;
   line-height: 1.6;
 }
 
@@ -90,7 +90,7 @@ footer .social-links a[href*="linkedin"]::before {
 }
 
 .sidebar {
-  background-color: white;
+  background-color: #333;
   padding: 15px;
   width: 250px;
   position: fixed;
@@ -117,7 +117,7 @@ footer .social-links a[href*="linkedin"]::before {
 }
 
 .sidebar-links a {
-  color: #333;
+  color: white;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
